@@ -1,2 +1,2 @@
 # hello-world
-Stary study Git
+Start study Git
